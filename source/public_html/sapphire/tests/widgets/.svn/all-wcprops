@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets
+END
+WidgetControllerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets/WidgetControllerTest.yml
+END
+WidgetControllerTestPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets/WidgetControllerTestPage.ss
+END
+WidgetControllerTestPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets/WidgetControllerTestPage.php
+END
+WidgetControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets/WidgetControllerTest.php
+END
+WidgetControllerTest_Widget.ss
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/widgets/WidgetControllerTest_Widget.ss
+END

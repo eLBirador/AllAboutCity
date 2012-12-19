@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters
+END
+GreaterThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/GreaterThanFilter.php
+END
+NegationFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/NegationFilter.php
+END
+EndsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/EndsWithFilter.php
+END
+SearchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/SearchFilter.php
+END
+FulltextFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/FulltextFilter.php
+END
+StartsWithMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/StartsWithMultiFilter.php
+END
+PartialMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/PartialMatchFilter.php
+END
+ExactMatchMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/ExactMatchMultiFilter.php
+END
+StartsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/StartsWithFilter.php
+END
+WithinRangeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/WithinRangeFilter.php
+END
+SubstringFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/SubstringFilter.php
+END
+ExactMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/ExactMatchFilter.php
+END
+LessThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/search/filters/LessThanFilter.php
+END

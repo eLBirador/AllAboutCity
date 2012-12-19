@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem
+END
+FlushGeneratedImagesTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/FlushGeneratedImagesTask.php
+END
+GD.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/GD.php
+END
+Folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/Folder.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/File.php
+END
+Archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/Archive.php
+END
+TarballArchive.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/TarballArchive.php
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/Filesystem.php
+END
+Upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/21/cms/silverstripe/releases/2.4.5/sapphire/filesystem/Upload.php
+END

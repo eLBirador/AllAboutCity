@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install
+END
+install.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/install.js
+END
+DatabaseConfigurationHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/DatabaseConfigurationHelper.php
+END
+DatabaseAdapterRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/DatabaseAdapterRegistry.php
+END
+MySQLDatabaseConfigurationHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/MySQLDatabaseConfigurationHelper.php
+END
+config-form.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/config-form.html
+END
+install.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/install.css
+END
+php5-required.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/install/php5-required.html
+END

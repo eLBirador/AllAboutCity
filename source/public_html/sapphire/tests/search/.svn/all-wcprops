@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search
+END
+SearchFilterApplyRelationTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/SearchFilterApplyRelationTest.yml
+END
+SearchFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/SearchFormTest.php
+END
+SearchFilterApplyRelationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/SearchFilterApplyRelationTest.php
+END
+TranslatableSearchFormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/TranslatableSearchFormTest.yml
+END
+ContentControllerSearchExtensionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/ContentControllerSearchExtensionTest.php
+END
+FulltextSearchableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/FulltextSearchableTest.php
+END
+SearchFormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/SearchFormTest.yml
+END
+TranslatableSearchFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/search/TranslatableSearchFormTest.php
+END

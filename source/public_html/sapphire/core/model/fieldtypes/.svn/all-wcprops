@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes
+END
+DBField.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/DBField.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Int.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Currency.php
+END
+Datetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Datetime.php
+END
+PrimaryKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/PrimaryKey.php
+END
+Decimal.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Decimal.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Time.php
+END
+Year.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Year.php
+END
+ForeignKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/ForeignKey.php
+END
+Enum.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Enum.php
+END
+Float.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Float.php
+END
+DBLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/DBLocale.php
+END
+HTMLText.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/HTMLText.php
+END
+Double.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Double.php
+END
+StringField.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/StringField.php
+END
+HTMLVarchar.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/HTMLVarchar.php
+END
+CompositeDBField.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/CompositeDBField.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Date.php
+END
+Percentage.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Percentage.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Boolean.php
+END
+MultiEnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/MultiEnum.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Text.php
+END
+Varchar.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Varchar.php
+END
+Money.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/17/cms/silverstripe/releases/2.4.5/sapphire/core/model/fieldtypes/Money.php
+END

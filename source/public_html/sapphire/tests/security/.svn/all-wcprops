@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security
+END
+PermissionCheckboxSetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionCheckboxSetFieldTest.yml
+END
+MemberCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberCsvBulkLoaderTest.csv
+END
+GroupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupTest.php
+END
+MemberCsvBulkLoaderTest_cleartextpws.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberCsvBulkLoaderTest_cleartextpws.csv
+END
+MemberCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberCsvBulkLoaderTest.yml
+END
+MemberAuthenticatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberAuthenticatorTest.php
+END
+PermissionTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionTest.yml
+END
+BasicAuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/BasicAuthTest.php
+END
+GroupTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupTest.yml
+END
+MemberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberTest.php
+END
+SecurityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/SecurityTest.php
+END
+PasswordEncryptorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PasswordEncryptorTest.php
+END
+PasswordValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PasswordValidatorTest.php
+END
+SecurityTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/SecurityTokenTest.php
+END
+PermissionRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionRoleTest.php
+END
+GroupCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupCsvBulkLoaderTest.php
+END
+BasicAuthTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/BasicAuthTest.yml
+END
+PermissionCheckboxSetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionCheckboxSetFieldTest.php
+END
+MemberTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberTest.yml
+END
+GroupCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupCsvBulkLoaderTest.csv
+END
+PermissionRoleTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionRoleTest.yml
+END
+SecurityDefaultAdminTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/SecurityDefaultAdminTest.php
+END
+MemberCsvBulkLoaderTest_withGroups.csv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberCsvBulkLoaderTest_withGroups.csv
+END
+GroupCsvBulkLoaderTest_withExisting.csv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupCsvBulkLoaderTest_withExisting.csv
+END
+GroupCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/GroupCsvBulkLoaderTest.yml
+END
+RandomGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/RandomGeneratorTest.php
+END
+MemberCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/MemberCsvBulkLoaderTest.php
+END
+PermissionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/security/PermissionTest.php
+END

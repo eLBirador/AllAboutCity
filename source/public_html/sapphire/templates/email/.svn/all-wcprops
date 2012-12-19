@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/templates/email
+END
+ForgotPasswordEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/templates/email/ForgotPasswordEmail.ss
+END
+ChangePasswordEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/templates/email/ChangePasswordEmail.ss
+END
+GenericEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/templates/email/GenericEmail.ss
+END

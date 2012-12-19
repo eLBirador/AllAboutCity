@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/42/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/37/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale/Data.php
+END
+Math.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/37/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale/Math.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/37/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale/Exception.php
+END
+.piston.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/37/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale/.piston.yml
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/37/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/Zend/Locale/Format.php
+END

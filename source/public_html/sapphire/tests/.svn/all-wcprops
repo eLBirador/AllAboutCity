@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests
+END
+SiteTreePermissionsTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreePermissionsTest.yml
+END
+ControllerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ControllerTest.yml
+END
+SiteTreeTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeTest.yml
+END
+DataObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/DataObjectTest.php
+END
+HtmlEditorConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/HtmlEditorConfigTest.php
+END
+ModelAsControllerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ModelAsControllerTest.yml
+END
+DataObjectDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/DataObjectDecoratorTest.php
+END
+SiteTreeActionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeActionsTest.php
+END
+SoapModelAccessTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SoapModelAccessTest.php
+END
+ObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ObjectTest.php
+END
+SiteTreeBacklinksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeBacklinksTest.php
+END
+MemoryLimitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/MemoryLimitTest.php
+END
+ShortcodeParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ShortcodeParserTest.php
+END
+ArrayDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ArrayDataTest.php
+END
+RedirectorPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/RedirectorPageTest.yml
+END
+FullTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/FullTestSuite.php
+END
+ManifestBuilderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ManifestBuilderTest.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/bootstrap.php
+END
+ObjectStaticTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ObjectStaticTest.php
+END
+SiteTreePermissionsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreePermissionsTest.php
+END
+ControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ControllerTest.php
+END
+Bare.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/Bare.yml
+END
+SQLFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SQLFormatterTest.php
+END
+SiteTreeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeTest.php
+END
+ManifestBuilderTest.fixture.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ManifestBuilderTest.fixture.inc
+END
+SearchContextTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SearchContextTest.yml
+END
+CoreTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/CoreTest.php
+END
+ViewableDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ViewableDataTest.php
+END
+FileLinkTrackingTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/FileLinkTrackingTest.yml
+END
+RequestHandlingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/RequestHandlingTest.php
+END
+PhpSyntaxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/PhpSyntaxTest.php
+END
+RedirectorPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/RedirectorPageTest.php
+END
+ErrorPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ErrorPageTest.yml
+END
+SiteTreeBrokenLinksTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeBrokenLinksTest.yml
+END
+CacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/CacheTest.php
+END
+ArrayLibTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ArrayLibTest.php
+END
+SSViewerCacheBlockTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SSViewerCacheBlockTest.php
+END
+SSViewerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SSViewerTest.php
+END
+DataObjectTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/DataObjectTest.yml
+END
+SearchContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SearchContextTest.php
+END
+DataObjectSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/DataObjectSetTest.php
+END
+WebserverRoutingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/WebserverRoutingTest.php
+END
+DataObjectDecoratorTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/DataObjectDecoratorTest.yml
+END
+HTTPTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/HTTPTest.php
+END
+SiteTreeActionsTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeActionsTest.yml
+END
+SoapModelAccessTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SoapModelAccessTest.yml
+END
+ConvertTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ConvertTest.php
+END
+SiteTreeBacklinksTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeBacklinksTest.yml
+END
+FileLinkTrackingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/FileLinkTrackingTest.php
+END
+ClassInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ClassInfoTest.php
+END
+SessionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SessionTest.php
+END
+SQLQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SQLQueryTest.php
+END
+TransactionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/TransactionTest.php
+END
+ErrorPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/ErrorPageTest.php
+END
+SiteTreeBrokenLinksTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/SiteTreeBrokenLinksTest.php
+END
+TokenisedRegularExpressionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/TokenisedRegularExpressionTest.php
+END
+HTTPRequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/HTTPRequestTest.php
+END

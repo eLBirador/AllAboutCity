@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email
+END
+Mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/Mailer.php
+END
+Notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/Notifications.php
+END
+QueuedEmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/QueuedEmail.php
+END
+QueuedEmailDispatchTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/QueuedEmailDispatchTask.php
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/mime.types
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/20/cms/silverstripe/releases/2.4.5/sapphire/email/Email.php
+END

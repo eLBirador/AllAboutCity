@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms
+END
+CheckboxFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/CheckboxFieldTest.php
+END
+MoneyFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/MoneyFieldTest.php
+END
+TableFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TableFieldTest.php
+END
+ComplexTableFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/ComplexTableFieldTest.yml
+END
+CurrencyFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/CurrencyFieldTest.php
+END
+FieldSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FieldSetTest.php
+END
+TimeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TimeFieldTest.php
+END
+FormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FormTest.php
+END
+FormScaffolderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FormScaffolderTest.yml
+END
+CompositeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/CompositeFieldTest.php
+END
+MemberDatetimeOptionsetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/MemberDatetimeOptionsetFieldTest.yml
+END
+FormFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FormFieldTest.php
+END
+RequirementsTest_b.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_b.js
+END
+DatefieldViewJQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/DatefieldViewJQueryTest.php
+END
+CheckboxSetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/CheckboxSetFieldTest.yml
+END
+ComplexTableFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/ComplexTableFieldTest.php
+END
+OptionsetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/OptionsetFieldTest.php
+END
+HtmlEditorFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/HtmlEditorFieldTest.yml
+END
+EmailFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/EmailFieldTest.php
+END
+FormScaffolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FormScaffolderTest.php
+END
+MemberDatetimeOptionsetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/MemberDatetimeOptionsetFieldTest.php
+END
+ConfirmedPasswordFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/ConfirmedPasswordFieldTest.php
+END
+DatetimeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/DatetimeFieldTest.php
+END
+DropdownFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/DropdownFieldTest.php
+END
+TableListFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TableListFieldTest.yml
+END
+TableFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TableFieldTest.yml
+END
+CheckboxSetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/CheckboxSetFieldTest.php
+END
+RequirementsTest_a.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_a.js
+END
+RequirementsTest_c.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_c.js
+END
+FormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FormTest.yml
+END
+HtmlEditorFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/HtmlEditorFieldTest.php
+END
+DateFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/DateFieldTest.php
+END
+TextareaFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TextareaFieldTest.php
+END
+RequirementsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest.php
+END
+FileFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/FileFieldTest.php
+END
+RequirementsTest_a.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_a.css
+END
+RequirementsTest_b.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_b.css
+END
+NullableFieldTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/NullableFieldTests.php
+END
+RequirementsTest_c.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/RequirementsTest_c.css
+END
+TableListFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/forms/TableListFieldTest.php
+END

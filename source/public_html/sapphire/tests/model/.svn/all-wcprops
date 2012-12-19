@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model
+END
+MySQLDatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/MySQLDatabaseTest.php
+END
+SiteConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/SiteConfigTest.php
+END
+ImageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/ImageTest.yml
+END
+DatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DatetimeTest.php
+END
+DataObjectSchemaGenerationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DataObjectSchemaGenerationTest.php
+END
+VirtualPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/VirtualPageTest.yml
+END
+VersionedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/VersionedTest.php
+END
+AggregateTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/AggregateTest.yml
+END
+MoneyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/MoneyTest.yml
+END
+DbDatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DbDatetimeTest.php
+END
+DatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DatabaseTest.php
+END
+SiteConfigTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/SiteConfigTest.yml
+END
+DBLocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DBLocaleTest.php
+END
+VersionedTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/VersionedTest.yml
+END
+DbDatetimeTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/DbDatetimeTest.yml
+END
+CompositeDBFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/CompositeDBFieldTest.php
+END
+TranslatableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/TranslatableTest.php
+END
+HierarchyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/HierarchyTest.php
+END
+ComponentSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/ComponentSetTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/ImageTest.php
+END
+VirtualPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/VirtualPageTest.php
+END
+AggregateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/AggregateTest.php
+END
+TranslatableTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/TranslatableTest.yml
+END
+MoneyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/MoneyTest.php
+END
+HierarchyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/HierarchyTest.yml
+END
+ComponentSetTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/model/ComponentSetTest.yml
+END

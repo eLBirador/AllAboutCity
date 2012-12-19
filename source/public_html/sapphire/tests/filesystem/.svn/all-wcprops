@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem
+END
+FileTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem/FileTest.yml
+END
+FolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem/FolderTest.php
+END
+UploadTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem/UploadTest.yml
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem/FileTest.php
+END
+UploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/filesystem/UploadTest.php
+END

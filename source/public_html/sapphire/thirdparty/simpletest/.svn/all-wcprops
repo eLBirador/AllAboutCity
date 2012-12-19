@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest
+END
+compatibility.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/compatibility.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/tag.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/LICENSE
+END
+cookies.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/cookies.php
+END
+page.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/page.php
+END
+parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/parser.php
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/VERSION
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/http.php
+END
+selector.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/selector.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/url.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/form.php
+END
+encoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/encoding.php
+END
+socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/32/cms/silverstripe/releases/2.4.5/sapphire/thirdparty/simpletest/socket.php
+END

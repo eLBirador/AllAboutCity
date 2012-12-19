@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api
+END
+VersionedRestfulServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/VersionedRestfulServer.php
+END
+RSSFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/RSSFeed.php
+END
+RestfulServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/RestfulServer.php
+END
+SapphireSoapServer_wsdl.ss
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/SapphireSoapServer_wsdl.ss
+END
+DataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/DataFormatter.php
+END
+XMLDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/XMLDataFormatter.php
+END
+FormEncodedDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/FormEncodedDataFormatter.php
+END
+RestfulService.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/RestfulService.php
+END
+SOAPModelAccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/SOAPModelAccess.php
+END
+SapphireSoapServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/SapphireSoapServer.php
+END
+JSONDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/47/cms/silverstripe/releases/2.4.5/sapphire/api/JSONDataFormatter.php
+END

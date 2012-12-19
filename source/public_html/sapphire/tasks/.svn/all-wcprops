@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks
+END
+QuarterHourlyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/QuarterHourlyTask.php
+END
+UpgradeSiteTreePermissionSchemaTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/UpgradeSiteTreePermissionSchemaTask.php
+END
+MigrateSiteTreeLinkingTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/MigrateSiteTreeLinkingTask.php
+END
+MonthlyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/MonthlyTask.php
+END
+RemoveOrphanedPagesTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/RemoveOrphanedPagesTask.php
+END
+ScheduledTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/ScheduledTask.php
+END
+WeeklyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/WeeklyTask.php
+END
+DailyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/DailyTask.php
+END
+HourlyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/HourlyTask.php
+END
+EncryptAllPasswordsTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/EncryptAllPasswordsTask.php
+END
+MigrateTranslatableTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/MigrateTranslatableTask.php
+END
+YearlyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/27/cms/silverstripe/releases/2.4.5/sapphire/tasks/YearlyTask.php
+END

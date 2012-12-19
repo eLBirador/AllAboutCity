@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security
+END
+MemberPassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/MemberPassword.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/LoginForm.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/Group.php
+END
+ChangePasswordForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/ChangePasswordForm.php
+END
+MemberAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/MemberAuthenticator.php
+END
+BasicAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/BasicAuth.php
+END
+PermissionProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PermissionProvider.php
+END
+PermissionRoleCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PermissionRoleCode.php
+END
+Member.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/Member.php
+END
+LoginAttempt.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/LoginAttempt.php
+END
+Security.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/Security.php
+END
+PasswordValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PasswordValidator.php
+END
+PasswordEncryptor.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PasswordEncryptor.php
+END
+SecurityToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/SecurityToken.php
+END
+Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/Authenticator.php
+END
+PermissionRole.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PermissionRole.php
+END
+GroupCsvBulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/GroupCsvBulkLoader.php
+END
+PermissionCheckboxSetField.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/PermissionCheckboxSetField.php
+END
+NZGovtPasswordValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/NZGovtPasswordValidator.php
+END
+MemberLoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/MemberLoginForm.php
+END
+RandomGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/RandomGenerator.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/Permission.php
+END
+MemberCsvBulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/26/cms/silverstripe/releases/2.4.5/sapphire/security/MemberCsvBulkLoader.php
+END

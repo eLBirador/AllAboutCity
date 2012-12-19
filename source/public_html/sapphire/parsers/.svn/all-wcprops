@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers
+END
+BBCodeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers/BBCodeParser.php
+END
+TextParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers/TextParser.php
+END
+BBCodeParser.ini
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers/BBCodeParser.ini
+END
+SQLFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers/SQLFormatter.php
+END
+ShortcodeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sources/!svn/ver/25/cms/silverstripe/releases/2.4.5/sapphire/parsers/ShortcodeParser.php
+END

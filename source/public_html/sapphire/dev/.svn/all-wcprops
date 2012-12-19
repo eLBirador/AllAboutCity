@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev
+END
+CliTestReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CliTestReporter.php
+END
+TaskRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TaskRunner.php
+END
+CodeViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CodeViewer.php
+END
+InstallerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/InstallerTest.php
+END
+SapphireTestReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/SapphireTestReporter.php
+END
+SapphireREPL.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/SapphireREPL.php
+END
+FunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/FunctionalTest.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/Cli.php
+END
+CSVParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CSVParser.php
+END
+TestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestRunner.php
+END
+SapphireTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/SapphireTest.php
+END
+MigrationTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/MigrationTask.php
+END
+LogFileWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/LogFileWriter.php
+END
+Backtrace.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/Backtrace.php
+END
+DebugView.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/DebugView.php
+END
+ModelViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/ModelViewer.php
+END
+BulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/BulkLoader.php
+END
+TestListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestListener.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/Debug.php
+END
+LogErrorEmailFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/LogErrorEmailFormatter.php
+END
+DevelopmentAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/DevelopmentAdmin.php
+END
+CSSContentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CSSContentParser.php
+END
+CsvBulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CsvBulkLoader.php
+END
+TestViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestViewer.php
+END
+ZendLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/ZendLog.php
+END
+JSTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/JSTestRunner.php
+END
+TestMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestMailer.php
+END
+CliDebugView.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/CliDebugView.php
+END
+LogErrorFileFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/LogErrorFileFormatter.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/Log.php
+END
+TestOnly.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestOnly.php
+END
+BuildTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/BuildTask.php
+END
+TestSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/TestSession.php
+END
+SapphireTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/SapphireTestSuite.php
+END
+LogEmailWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/LogEmailWriter.php
+END
+SapphireInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sources/!svn/ver/19/cms/silverstripe/releases/2.4.5/sapphire/dev/SapphireInfo.php
+END

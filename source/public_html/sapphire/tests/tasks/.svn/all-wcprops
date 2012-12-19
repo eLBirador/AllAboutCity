@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks
+END
+RemoveOrphanedPagesTaskTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks/RemoveOrphanedPagesTaskTest.yml
+END
+MigrateSiteTreeLinkingTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks/MigrateSiteTreeLinkingTaskTest.php
+END
+RemoveOrphanedPagesTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks/RemoveOrphanedPagesTaskTest.php
+END
+EncryptAllPasswordsTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks/EncryptAllPasswordsTaskTest.php
+END
+MigrateSiteTreeLinkingTaskTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/tasks/MigrateSiteTreeLinkingTaskTest.yml
+END

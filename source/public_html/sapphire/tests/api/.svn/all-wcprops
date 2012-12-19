@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api
+END
+RSSFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api/RSSFeedTest.php
+END
+RestfulServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api/RestfulServerTest.php
+END
+RestfulServerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api/RestfulServerTest.yml
+END
+RestfulServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api/RestfulServiceTest.php
+END
+SapphireSoapServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sources/!svn/ver/28/cms/silverstripe/releases/2.4.5/sapphire/tests/api/SapphireSoapServerTest.php
+END
